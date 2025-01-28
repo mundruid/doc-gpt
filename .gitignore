@@ -3,3 +3,6 @@
 .env
 db
 data
+.DS_Store
+chroma
+.python-version
